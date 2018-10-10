@@ -6,3 +6,5 @@ spring:
     url: jdbc:mysql://39.106.222.19:3360/cloud_action
     username: rootrd
     password: xdjr1230-KFCG
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
