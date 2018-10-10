@@ -1,0 +1,8 @@
+url:
+  url version 2
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://39.106.222.19:3360/cloud_action
+    username: rootrd
+    password: xdjr1230-KFCG
